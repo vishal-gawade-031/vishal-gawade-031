@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @vishal-gawade-031
+- 👋 Hi, I’m vishal-gawade
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning .js..
+- 🌱 I’m currently exploring backend..
+- intrested in full stack devloper
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
